@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(238, 237, 237);
+    background-repeat: no repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Tahoma;
+    }
+#all{
+    
+    
+    margin:0 auto;
+    border-radius: 5px;
+    text-align: center;
+    }
+    h1{
+        color: white; /* Цвет текста */
+    }
+.fpsignup {
+    border-radius: 3px;
+    background-color: #f7f7f9;
+    padding: 1rem;
+    -webkit-box-shadow: 0 1px 1px 1px rgb(0 0 0 / 30%);
+    box-shadow: 0 1px 1px 1px rgb(0 0 0 / 30%);
+    border: 1px solid #fff;
+    margin-bottom: 2rem;
+    width:15% ;
+    height:200px ;
+    margin: 100px;
+}
+.card-block, #page-enrol-users #filterform, .userprofile .profile_tree section, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .yui-layout-unit-right, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .yui-layout-unit-bottom, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax #chat-messages .chat-message.course-theme, .well {
+    padding: 1.25rem;
+    background-color: #6a8aa8;
+    border-radius: 5px;
+    
+}
+.path-site li.activity>div, .path-course-view li.activity>div {
+    position: relative;
+    padding: 0 16px 0 0;
+}
+.mod-indent-outer{
+    height:200px ;
+    margin: 100px;
+}
+.site-news-forum{
+    height:200px ;
+    margin: 100px;
+    background-color: #f7f7f9;
+}
+#one{
+    width:60% ;
+    height:300px ;
+    background-color:#f7f7f9;
+    float:left;
+    border-radius: 5px;
+    padding: 10px;
+  margin: 20px 0;
+    margin: 60px;
+    margin-top: 1px;
+    }
+    #two{
+        width:100% ;
+        height:50px ;
+        background-color:white;
+        float:left;
+        border-radius: 5px;
+        padding: 10px;
+  margin: 20px 0;
+        margin: 10px;
+        }
+
+
+
+
